@@ -10,3 +10,4 @@ C:\Users\senthil.krishnan\source\repos\TestConsoleApp\obj\Debug\netcoreapp3.1\Te
 C:\Users\senthil.krishnan\source\repos\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.dll
 C:\Users\senthil.krishnan\source\repos\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.pdb
 C:\Users\senthil.krishnan\source\repos\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.genruntimeconfig.cache
+C:\Users\senthil.krishnan\source\repos\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.csproj.AssemblyReference.cache
